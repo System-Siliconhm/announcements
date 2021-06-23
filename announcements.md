@@ -1,4 +1,4 @@
-### New version released 🚀
+### New version released 🚀 (23rd June 2021)
 
 #### Summary of Changes
 - API to make it easier to invite users to Channex and to properties
