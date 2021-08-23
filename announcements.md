@@ -1,10 +1,9 @@
-### New version released 🚀 (26th July 2021)
+### August Release 🚀 (23rd August 2021)
 
 #### Summary of Changes
-- Message API 💬💬 for Airbnb and Booking.com
-- API Key 🔑 access feature is released
-- Extend parsed info for Agoda
-- Add Airbnb Reservation Request support
-- Bugfixes and performance improvements
+- Improve Messaging UI
+- HotelBeds Channel Release
+- Airbnb Reservation Request Fixes
+- General bugfixes and UI improvements
 
-[Changelog](https://docs.channex.io/changelog#2021-07-26)
+[Link to Changelog](https://docs.channex.io/changelog)
