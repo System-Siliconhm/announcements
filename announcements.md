@@ -1,8 +1,8 @@
-### Oct Update 🚀 (20th Oct 2021)
+### Oct Update 🚀 (27th Oct 2021)
 
 #### Summary of Changes
-- Tax UI upgrade to manage tax calcualtions in levels
-- Some White Label Improvements available like your own intercom widget
-- We show Host ID in Airbnb channel to know which account is connected.
+- You can create API Keys to manage only selected Properties
+- Improved UI for Airbnb Reservation Request
+- Expose stop_sell_manual and user_id into changes for web-hook API
 
 [Link to Changelog](https://docs.channex.io/changelog)
