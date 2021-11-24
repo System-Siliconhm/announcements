@@ -1,9 +1,6 @@
-### Nov Update 🚀 (9th Nov 2021)
+### Nov Update 🚀 (24th Nov 2021)
 
 #### Summary of Changes
-- Improved Chat UI with system messages
-- Added button to resend revision into booking feed for PMS to take again
-- Airbnb alteration request supported
-- Various bug fixes and small improvements
+- We added UI so you can view, create and edit webhooks (https://app.channex.io/webhooks)
 
 [Link to Changelog](https://docs.channex.io/changelog)
