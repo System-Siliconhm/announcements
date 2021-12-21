@@ -1,13 +1,14 @@
-### Dec Update 🚀 (14th Dec 2021)
+### Dec Update 🚀 (21st Dec 2021)
 
 #### Summary of Changes
-- Our webhooks now have logs, so you can see if they failed or success
-- Booking change request now supported with Airbnb
-- Iframe for property page will not show delete and add buttons
+- NEW OTA: Despegar (Beta) Link to how to connect: https://docs.channex.io/channel-mapping-guides/despegar
+- VR Properties now have a restriction you cant set availability higher than setting in the room type.
+- Bookings not acked within 30 mins will be removed from the feed and you will receive an email
+- Added email field to billing if you wish ack emails to go to a different address
 
 [Link to Changelog](https://docs.channex.io/changelog)
 
 ### Coming Soon
-- Booking Revision Feed will have a 30 Minute window to ack revisions after you have received it once, email will be sent if any unacked revisions after 30 mins from created date. Any PMS downtime should be unaffected since we count from first receive of revision and not from creaded time.
-- Vacation Rental properties will have limit on availability, if you set 1 available into the room settings you cant send 2 available. Hotel properties will have no restriction as now.
+- Ctrip is coming in January
+- Inntopia connection is coming soon
 
