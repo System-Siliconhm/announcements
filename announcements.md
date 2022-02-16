@@ -1,15 +1,12 @@
-### Jan Update 🚀 (28th Jan 2022)
+### Feb Update 🚀 (16th Feb 2022)
 
 #### Summary of Changes
-- Unmapped rooms/rates now in a different colour for better visibility
-- Spanish & Portuguese Languages Supported (More languages possible if required)
-- Airbnb standard fees added to settings inc. Pet Fee
-- Auto mapping of Despegar derived rates
-- Improved processing speed of availability tasks
+- Airbnb Enquiries now supported (Chat)
+- Instant Booking Page option to make billing information a required field
+- API keys can now be edited to add or remove properties
+- Inntopia Channel (Beta)
 
 [Link to Changelog](https://docs.channex.io/changelog)
 
 ### Coming Soon
-- Inntopia CRS connection is coming soon
-- Review app to view and reply to OTA reviews
-
+- Child support for ages and work with Instant Booking Page
