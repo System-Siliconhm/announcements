@@ -2,5 +2,6 @@
 
 #### Summary of Changes
 - Travia Channel (Beta)
+- Bakuun Channel (Beta)
 
 [Link to Changelog](https://docs.channex.io/changelog)
