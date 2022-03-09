@@ -4,4 +4,8 @@
 - Travia Channel (Beta)
 - Bakuun Channel (Beta)
 
+#### Coming Soon
+- Yieldplanet
+- Traveloka
+
 [Link to Changelog](https://docs.channex.io/changelog)
