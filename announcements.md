@@ -1,4 +1,4 @@
-### Downtime Incedent 10-11 March 2022
+### Downtime Incident 10-11 March 2022
 
 #### Summary
 - We had 4 hours downtime between 10:30pm & 3:20am where we could not process any ARI updates
