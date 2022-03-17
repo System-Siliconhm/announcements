@@ -1,8 +1,2 @@
-### Downtime Incident 10-11 March 2022
-
-#### Summary
-- We had 4 hours downtime between 10:30pm & 3:20am where we could not process any ARI updates
-- We have imported all booking & expedia missing reservations
-- Other channels such as Agoda/Ctrip/hotelbeds etc the bookings must be handled manually, usually the OTA will send an email with booking details to the property
-
-Please send a full sync from the PMS for all connected properties. Please reach out if you need any help
+#### Coming Soon
+We are adding child prices support to the instant booking page. If you are interested in testing this please get in touch so we can show you the early version to provide your input on how it works and shows in the booking engine.
