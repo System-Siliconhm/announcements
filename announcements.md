@@ -1,2 +1,13 @@
+### April Update 🚀 (6th April 2022)
+
+#### Summary of Changes
+- New Channel StayforRewards
+- Ordered booking_revisions feed from oldest to newest
+- Depreciated count of bookings and max sell restrictions
+- Hide FlipView for Hotelbeds Channel
+- Hide FlipView for Inntopia Channel
+
 #### Coming Soon
-We are adding child prices support to the instant booking page. If you are interested in testing this please get in touch so we can show you the early version to provide your input on how it works and shows in the booking engine.
+- Review API for Airbnb & Booking
+
+[Link to Changelog](https://docs.channex.io/changelog)
