@@ -9,5 +9,6 @@
 
 #### Coming Soon
 - Review API for Airbnb & Booking
+- API Rate limits
 
 [Link to Changelog](https://docs.channex.io/changelog)
