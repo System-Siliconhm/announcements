@@ -1,4 +1,4 @@
-### April Update 🚀 (26th April 2022)
+### May Update 🚀 (24th May 2022)
 
 #### Summary of Changes
 - Remove Room / Rate improvements - Will give error if mapped to any OTA
