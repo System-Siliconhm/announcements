@@ -1,4 +1,4 @@
-### May Update 🚀 (1st Jun 2022)
+### June Update 🚀 (1st Jun 2022)
 
 #### Summary of Changes
 - Implement force remove for RatePlans (You can delete a room and we will unmap all OTA for you)
