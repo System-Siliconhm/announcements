@@ -1,16 +1,12 @@
-### May Update 🚀 (24th May 2022)
+### May Update 🚀 (1st Jun 2022)
 
 #### Summary of Changes
-- Remove Room / Rate improvements - Will give error if mapped to any OTA
-- Improve inventory table rendering
-- Add Message Sender into message webhook payload
-- Convert currency for dashboard bookings stats
-- Remove photos from CDN if you delete property or rooms
-- Pull ARI calendar for Airbnb - API only
-- Support for children with Google
-- Decrease Rate Limits for Restriction to 40 per minute
+- Implement force remove for RatePlans (You can delete a room and we will unmap all OTA for you)
+- Implement force remove for RoomTypes (You can delete a rate and we will unmap all OTA for you)
+- White Label Improvements - Allow to setup custom Announcements
+- (Beta) Review Application
 
 #### Coming Soon
-- Review API for Airbnb & Booking
+- Booking Engine Improvements & Pro Version
 
 [Link to Changelog](https://docs.channex.io/changelog)
