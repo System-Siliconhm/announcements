@@ -7,6 +7,6 @@
 - (Beta) Review Application
 
 #### Coming Soon
-- Booking Engine Improvements & Pro Version
+- Google Vacation Rental Channel
 
 [Link to Changelog](https://docs.channex.io/changelog)
