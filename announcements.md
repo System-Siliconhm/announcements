@@ -1,4 +1,4 @@
-### June Update 🚀 (15th Jun 2022)
+### June Update 🚀 (28th Jun 2022)
 
 #### Summary of Changes
 - New Channel Spot2Nite (Camping and RV)
