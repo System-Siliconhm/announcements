@@ -1,4 +1,4 @@
-### June Update 🚀 (28th Jun 2022)
+### July Update 🚀 (7th July 2022)
 
 #### Summary of Changes
 - Improved Review API
