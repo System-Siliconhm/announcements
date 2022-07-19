@@ -1,12 +1,8 @@
-### July Update 🚀 (7th July 2022)
+### July Update 🚀 (19th July 2022)
 
 #### Summary of Changes
-- Improved Review API
-- Allow Inntopia to connect multiple Properties
-- Added advanced search for Bookings
-- Added advanced search for Channels
-- Simplify Minimum Stay logic
-- Add Group selector into UI
+- Connect Airbnb opportunity API
+- Connect Airbnb cancel reservation API
 
 #### Coming Soon
 - Google Vacation Rental Channel
