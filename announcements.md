@@ -1,4 +1,4 @@
-### July Update 🚀 (22nd Aug 2022)
+### August Update 🚀 (22nd Aug 2022)
 
 #### Summary of Changes
 - Support for Booking quick connect
