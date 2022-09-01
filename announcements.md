@@ -11,6 +11,6 @@
 - Google Vacation Rental Channel (In Certification)
 - VRBO (Ready to test in Staging)
 
-[Link to Helping Hotels PMS](https://pms.helpinghotels.com)
-[Link to Helping Hotels Webstie](https://helpinghotels.com)
-[Link to Live Chat Support](https://chat.socialhub.center/signup_user_complete/?id=w3ib57i7j3f1fcp7x3garfr6dy))
+- [Link to Helping Hotels PMS](https://pms.helpinghotels.com)
+- [Link to Helping Hotels Webstie](https://helpinghotels.com)
+- [Link to Live Chat Support](https://chat.socialhub.center/signup_user_complete/?id=w3ib57i7j3f1fcp7x3garfr6dy))
